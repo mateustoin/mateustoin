@@ -9,7 +9,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 🔭 Atualmente bolsista no Laboratório de Engenharia de Sistemas e Robótica na UFPB, trabalhando com Internet das Coisas e Sistemas Embarcados em Drones <br/>
    - 🌱 Aprendendo Python e Arquiteturas de Software para aplicar nos projetos profissionais e pessoais <br/>
    - 👯 Coordenando o Capítulo de Robótica e Automação pelo IEEE na UFPB como Vice Presidente  <br/>
-   - 🤔 Produzo conteúdo através de artigos no <a href="https://medium.com/@mateustoin">Medium</a>, aqui mesmo no <a href="https://github.com/mateustoin">Github</a> e começando com lives na <a href="https://twitch.tv/bittoin">Twitch</a> e a mexer no <a href="https://instagram.com/matteus_antonio">Instagram</a> <br/> 
+   - 👀 Produzo conteúdo através de artigos no <a href="https://medium.com/@mateustoin">Medium</a>, aqui mesmo no <a href="https://github.com/mateustoin">Github</a> e começando com lives na <a href="https://twitch.tv/bittoin">Twitch</a> e a mexer no <a href="https://instagram.com/matteus_antonio">Instagram</a> <br/> 
 </details>
 
 <details>
@@ -20,6 +20,8 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 😬 Experiência com Qt e QML em projetos pessoais<br/>
    - 🦾 Trabalhando com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN<br/>
    - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando<br/>
+   - 🥺 Também possuo alguns conhecimentos em Node, Javascript (devido a alguns trabalhos com Javascript para robótica) e até dá pra tirar uma lasquinha com React/React Native
+   - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week (evento nacional online), Grupo de Robótica da UFPB e em aulas da graduação
 </details>
 
 ---
