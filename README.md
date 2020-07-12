@@ -9,8 +9,19 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 🔭 Atualmente bolsista no Laboratório de Engenharia de Sistemas e Robótica na UFPB, trabalhando com Internet das Coisas e Sistemas Embarcados em Drones <br/>
    - 🌱 Aprendendo Python e Arquiteturas de Software para aplicar nos projetos profissionais e pessoais <br/>
    - 👯 Coordenando o Capítulo de Robótica e Automação pelo IEEE na UFPB como Vice Presidente  <br/>
-   - 🤔 Produzo conteúdo através de artigos no <a href="https://medium.com/@mateustoin">Medium</a>, aqui mesmo no <a href="https://github.com/mateustoin">Github</a> e começando com lives na <a href="https://twitch.tv/bittoin">Twitch</a> e no <a href="https://instagram.com/matteus_antonio">Instagram</a> <br/> 
+   - 🤔 Produzo conteúdo através de artigos no <a href="https://medium.com/@mateustoin">Medium</a>, aqui mesmo no <a href="https://github.com/mateustoin">Github</a> e começando com lives na <a href="https://twitch.tv/bittoin">Twitch</a> e a mexer no <a href="https://instagram.com/matteus_antonio">Instagram</a> <br/> 
 </details>
+
+<details>
+ <summary><strong>Um pouco das minhas experiências e conhecimentos:</strong></summary>
+   - 🤓 Dou aula de robótica desde 2017, com foco em Arduino e desenvolvimento de projetos
+   - 😏 Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa
+   - 😯 Experiência com Python em projetos pessoais, estágio, graduação e projeto de pesquisa
+   - 😬 Experiência com Qt e QML em projetos pessoais
+   - 🦾 Trabalhando com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN
+   - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando
+</details>
+
 
 ---
 ### Como me contatar ou ver meu conteúdo!
