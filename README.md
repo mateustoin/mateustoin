@@ -1,5 +1,12 @@
 ### Eai! 👋
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/mateus-antonio-97b31011b/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@mateustoin"><img height="30" src="https://github.com/mateustoin/mateustoin/blob/master/img/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/matteus_antonio/"><img height="30" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:mateusasilva3@gmail.com"><img height="30" src="?raw=true"></a>
+<a href="https://github.com/mateustoin"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+</p>
 
 Here are some ideas to get you started:
 
