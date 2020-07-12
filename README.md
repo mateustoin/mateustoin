@@ -14,14 +14,13 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
 
 <details>
  <summary><strong>Um pouco das minhas experiências e conhecimentos:</strong></summary>
-   - 🤓 Dou aula de robótica desde 2017, com foco em Arduino e desenvolvimento de projetos
-   - 😏 Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa
-   - 😯 Experiência com Python em projetos pessoais, estágio, graduação e projeto de pesquisa
-   - 😬 Experiência com Qt e QML em projetos pessoais
-   - 🦾 Trabalhando com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN
-   - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando
+   - 🤓 Dou aula de robótica desde 2017, com foco em Arduino e desenvolvimento de projetos<br/>
+   - 😏 Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa<br/>
+   - 😯 Experiência com Python em projetos pessoais, estágio, graduação e projeto de pesquisa<br/>
+   - 😬 Experiência com Qt e QML em projetos pessoais<br/>
+   - 🦾 Trabalhando com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN<br/>
+   - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando<br/>
 </details>
-
 
 ---
 ### Como me contatar ou ver meu conteúdo!
