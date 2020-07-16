@@ -20,7 +20,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 😬 Experiência com Qt e QML em projetos pessoais<br/>
    - 🦾 Trabalhando com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN no projeto NLT INNOVA, da NLT<br/>
    - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando<br/>
-   - 🥺 Também possuo alguns conhecimentos em Node, Javascript (devido a alguns trabalhos com Javascript para robótica) e até dá pra tirar uma lasquinha com React/React Native
+   - 🥺 Também possuo alguns conhecimentos em Node, Javascript (devido a alguns trabalhos com Javascript para robótica) e até dá pra tirar uma lasquinha com React/React Native<br/>
    - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week (evento nacional online), Grupo de Robótica da UFPB e em aulas da graduação
 </details>
 
