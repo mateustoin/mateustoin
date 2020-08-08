@@ -24,6 +24,13 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week (evento nacional online), Grupo de Robótica da UFPB e em aulas da graduação
 </details>
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustoin&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustoin&theme=vue&layout=compact" />
+</a>
+</p>
+
 ---
 ### Como me contatar ou ver meu conteúdo!
 
