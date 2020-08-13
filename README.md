@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://github.com/mateustoin/mateustoin/blob/master/img/Mateus-Antonio2.png?raw=true">&nbsp;&nbsp;
+<img src="https://github.com/mateustoin/mateustoin/blob/master/img/header.png?raw=true">&nbsp;&nbsp;
 </p>
 
 Sou um estudante de Engenharia da Computação que ama Robótica, Programação, Ensinar e Aprender. Estou sempre em busca de novas tecnologias, linguagens e soluções de problemas que ajudem as pessoas de alguma forma, a fim de que todos possam se beneficiar no final. Por isso tento ensinar tudo que aprendo, assim pessoas como você, visitando esse perfil, que tenha interesses parecidos com o meu, possa aprender e levar esse conhecimento para frente!
