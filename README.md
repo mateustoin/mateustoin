@@ -24,6 +24,13 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
    - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week (evento nacional online), Grupo de Robótica da UFPB e em aulas da graduação
 </details>
 
+<details>
+ <summary><strong>Projetos das lives na Twitch:</strong></summary>
+   - 🐶 <a href="https://github.com/mateustoin/Caes-e-Gatos">Visualizador de fotos e vídeos de Cachorros e Raposas</a> <br/>
+   - 🤖 <a href="https://github.com/mateustoin/Bittoin-Telegram-Bot">Bot para telegram multifuncional</a> <br/>
+   - 🚧 Projeto integrado de Hardware e Software (<b>Em construção</b>)
+</details>
+
 <p align="center">
 <a href="https://github.com/mateustoin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateustoin&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
