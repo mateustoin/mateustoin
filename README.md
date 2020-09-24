@@ -5,6 +5,12 @@
 Sou um estudante de Engenharia da Computação que ama Robótica, Programação, Ensinar e Aprender. Estou sempre em busca de novas tecnologias, linguagens e soluções de problemas que ajudem as pessoas de alguma forma, a fim de que todos possam se beneficiar no final. Por isso tento ensinar tudo que aprendo, assim pessoas como você, visitando esse perfil, que tenha interesses parecidos com o meu, possa aprender e levar esse conhecimento para frente!
 
 <details>
+ <summary><strong>🤓 Conquistas 🤓</strong></summary>
+   - (2017) Prêmio Criatividade no Hackathon do GDG, durante o evento DevFest Maceió, avaliado e entregue por dois Engenheiros de Software do Google <br/>
+   - (2020) 2º lugar no Hackathon da OAB-PB <br/>
+</details>
+
+<details>
  <summary><strong>Um pouco das coisas que ando fazendo:</strong></summary>
    - 🔭 Atualmente bolsista no Laboratório de Engenharia de Sistemas e Robótica na UFPB, trabalhando com Internet das Coisas e Sistemas Embarcados em Drones <br/>
    - 🌱 Aprendendo Python e Arquiteturas de Software para aplicar nos projetos profissionais e pessoais <br/>
