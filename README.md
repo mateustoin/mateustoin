@@ -8,8 +8,8 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
  <summary><strong>🤓 Conquistas 🤓</strong></summary>
    - (2017) Prêmio Criatividade no Hackathon do GDG, durante o evento DevFest Maceió, avaliado e entregue por dois Engenheiros de Software do Google <br/>
    - (2020) 2º lugar no Hackathon da OAB-PB <br/>
-   - (2020) Publicação do artigo: <a href="http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.2000149">Motor speed estimation and failure detection of small UAV using density of maxima</a>
-   - (2020) Top 10 no Zenvia Experience Hackathon: New Horizons, Time 33 <a href="https://zenviaexperience.com/resultado-2-edicao">(Health Prevent Technology)</a>
+   - (2020) Publicação do artigo: <a href="http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.2000149">Motor speed estimation and failure detection of small UAV using density of maxima</a> <br/>
+   - (2020) Top 10 no Zenvia Experience Hackathon: New Horizons, Time 33 <a href="https://zenviaexperience.com/resultado-2-edicao">(Health Prevent Technology)</a> <br/>
 </details>
 
 <details>
