@@ -52,7 +52,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
 <p align='center'>
 <a href="https://www.linkedin.com/in/mateus-antonio-robotica/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@mateustoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/matteus_antonio/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/mateus_antonio0/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:mateusasilva3@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
 <a href="https://github.com/mateustoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
 <a href="https://www.twitch.tv/bittoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/twitch.png?raw=true"></a>
