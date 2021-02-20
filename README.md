@@ -37,8 +37,12 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Programação,
 
 <p align="center">
 <a href="https://github.com/mateustoin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateustoin&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustoin&theme=dracula&layout=compact&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bittoin&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittoin&theme=dracula&layout=compact&langs_count=6" />
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bittoin/count.svg" />
+</p>
 </a>
 </p>
 
