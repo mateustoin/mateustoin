@@ -27,7 +27,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embar
     - 🤓 Dou aula de robótica desde 2017, com foco em Arduino e desenvolvimento de projetos <br/>
     - 😏 Experiência com C/C++ em projetos pessoais, graduação e projeto de pesquisa<br/>
     - 😯 Experiência com Python em projetos pessoais, estágio, graduação e projeto de pesquisa <br/>
-    - 😬 Experiência com Qt e QML em projetos pessoais, desenvolvimento de aplicações multi-plataforma (Android, Windows, Linux, etc...) <br/>
+    - 😬 Experiência com Qt e QML em projetos pessoais e pesquisa, desenvolvimento de aplicações multi-plataforma (Android, Windows, Linux, etc...) para Drones e Automação Residencial <br/>
     - 🦾 Experiência com Internet das Coisas focado na tecnologia LoRa e protocolo LoRaWAN <br/>
     - 🤯 Trabalho com pesquisa na área de Sistemas Embarcados voltado para Drones, estudando, pilotando e programando <br/>
     - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week, Grupo de Robótica da UFPB e em aulas da graduação
