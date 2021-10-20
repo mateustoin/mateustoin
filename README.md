@@ -1,3 +1,4 @@
+<!--
 <p align='center'>
 <img src="https://github.com/mateustoin/mateustoin/blob/master/img/header.png?raw=true">&nbsp;&nbsp;
 </p>
@@ -33,6 +34,25 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embar
     - 🕶 Já dei palestras, workshops e minicursos em eventos como Arduino Day, RAS Week, Grupo de Robótica da UFPB e em aulas da graduação
 </details>
 <br/>
+-->
+
+## Olá! 😊 
+
+### Sobre mim
+
+Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
+
+- 💻 Estágio de Engenharia de Software no Instituto de Pesquisas Eldorado
+- 💉 Desenvolvedor de Software para Sistemas Embarcados no Laboratório de Inovação Tecnológica em Saúde (LAIS/HUOL/UFRN)
+- 👌 Sempre trabalhando em projetos pessoais no tempo livre
+- 👉 Sigo a regra de nunca perder a oportunidade de compartilhar conhecimento com as pessoas
+
+### Como me contatar
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bittoin)](https://github.com/bittoin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateustoin@gmail.com)](mailto:mateustoin@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bittoin_/)](https://www.instagram.com/bittoin_/)
 
 <p align="center">
 <a href="https://github.com/bittoin">
@@ -43,16 +63,4 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embar
   <img src="https://profile-counter.glitch.me/bittoin/count.svg" />
 </p>
 </a>
-</p>
-
----
-### Como me contatar ou ver meu conteúdo!
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/mateus-antonio-robotica/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@mateustoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/bittoin_/"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/instagram-sketched.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:mateustoin@gmail.com"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/email.png?raw=true"></a>
-<a href="https://github.com/bittoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/github.png?raw=true"></a>
-<a href="https://www.twitch.tv/bittoin"><img height="50" src="https://github.com/mateustoin/mateustoin/blob/master/img/twitch.png?raw=true"></a>
 </p>
