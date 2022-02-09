@@ -43,7 +43,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embar
 Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
 
 - 💻 Estágio de Engenharia de Software no Instituto de Pesquisas Eldorado
-- 💉 Desenvolvedor de Software para Sistemas Embarcados no Laboratório de Inovação Tecnológica em Saúde (LAIS/HUOL/UFRN)
+- 💉 Pesquisador na área de Sistemas Embarcados no Laboratório de Engenharia de Sistemas e Robótica (LASER) na UFPB
 - 👌 Sempre trabalhando em projetos pessoais no tempo livre
 - 👉 Sigo a regra de nunca perder a oportunidade de compartilhar conhecimento com as pessoas
 
