@@ -3,7 +3,7 @@
 <img src="https://github.com/mateustoin/mateustoin/blob/master/img/header.png?raw=true">&nbsp;&nbsp;
 </p>
 
-Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embarcados, IoT e principalmente Programar, Ensinar e Aprender. Estou sempre em busca de novas tecnologias, linguagens e soluções de problemas que ajudem as pessoas de alguma forma, para que todos possam se beneficiar no final. Por isso tento ensinar tudo que aprendo, para que pessoas como você, visitando esse perfil, que tenha interesses parecidos com o meu, possa aprender e levar esse conhecimento para frente!
+Sou concluinte de Engenharia da Computação que ama Robótica, Sistemas Embarcados, IoT e principalmente Programar, Ensinar e Aprender. Estou sempre em busca de novas tecnologias, linguagens e soluções de problemas que ajudem as pessoas de alguma forma, para que todos possam se beneficiar no final. Por isso tento ensinar tudo que aprendo, para que pessoas como você, visitando esse perfil, que tenha interesses parecidos com o meu, possa aprender e levar esse conhecimento para frente!
 
 <details>
  <summary><strong>🤓 Conquistas 🤓</strong></summary>
@@ -42,7 +42,7 @@ Sou um estudante de Engenharia da Computação que ama Robótica, Sistemas Embar
 
 Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
 
-- 💻 Estágio de Engenharia de Software no Instituto de Pesquisas Eldorado
+- 💻 Estágio de Analista de Software (Android Embarcado) no Instituto de Pesquisas Eldorado
 - 💉 Pesquisador na área de Sistemas Embarcados no Laboratório de Engenharia de Sistemas e Robótica (LASER) na UFPB
 - 👌 Sempre trabalhando em projetos pessoais no tempo livre
 - 👉 Sigo a regra de nunca perder a oportunidade de compartilhar conhecimento com as pessoas
