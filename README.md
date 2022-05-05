@@ -49,18 +49,18 @@ Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba.
 
 ### Como me contatar
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bittoin)](https://github.com/bittoin)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/mateustoin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateustoin@gmail.com)](mailto:mateustoin@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/bittoin_/)](https://www.instagram.com/bittoin_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_toin/)](https://www.instagram.com/mateus_toin/)
 
 <p align="center">
-<a href="https://github.com/bittoin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bittoin&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittoin&theme=dracula&layout=compact&langs_count=6" />
+<a href="https://github.com/mateustoin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateustoin&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustoin&theme=dracula&layout=compact&langs_count=6" />
  <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bittoin/count.svg" />
+  <img src="https://profile-counter.glitch.me/mateustoin/count.svg" />
 </p>
 </a>
 </p>
