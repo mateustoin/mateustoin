@@ -35,7 +35,6 @@ Concluinte de Engenharia da Computação que ama Sistemas Embarcados, IoT, Robó
 Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba. Atualmente estou trabalhando com:
 
 - 💻 Analista de Software Trainee (Android Embarcado) no Instituto de Pesquisas Eldorado
-- 💉 Pesquisador na área de Sistemas Embarcados no Laboratório de Engenharia de Sistemas e Robótica (LASER) na UFPB
 - 👌 Sempre trabalhando em projetos pessoais no tempo livre
 - 👉 Sigo a regra de nunca perder a oportunidade de compartilhar conhecimento com as pessoas
 
@@ -44,7 +43,7 @@ Sou estudante de Engenharia da Computação na Universidade Federal da Paraíba.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/mateustoin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/mateustoin/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateustoin@gmail.com)](mailto:mateustoin@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_toin/)](https://www.instagram.com/mateus_anton/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mateus_anton/)](https://www.instagram.com/mateus_anton/)
 
 <!--
 <p align="center">
